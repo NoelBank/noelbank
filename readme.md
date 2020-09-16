@@ -1,9 +1,16 @@
-# Noel Bank :man_technologist:
+### Application Developer for [Neoskop][https://neoskop.de]
+#### Self-taught programmer from hanover.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/noelbank)
+🏡 [website][https://nbank.dev] **|** 
+🎥 [twitch][https://www.twitch.tv/noelbank] **|** 
+👔 [linkedin][https://www.linkedin.com/in/noel-bank-419641178/] **|**
+👔 [xing][https://www.xing.com/profile/Noel_Bank]
 
+**2018**
+t.b.a.
 
-- 🔭 Application developer, using mostly: Node, React, PHP
-- 📫 Reach me at: info@nbank.dev
-- 👨🏽‍💻 Portfolio [nbank.dev](https://nbank.dev)
-- ⚡ Right now working on Overlay with React
+**2019**
+t.b.a.
+
+**2020**
+t.b.a.
