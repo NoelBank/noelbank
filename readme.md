@@ -7,10 +7,10 @@
 👔 [xing][https://www.xing.com/profile/Noel_Bank]
 
 **2018**
-t.b.a.
+- t.b.a.
 
 **2019**
-t.b.a.
+- t.b.a.
 
 **2020**
-t.b.a.
+- t.b.a.
