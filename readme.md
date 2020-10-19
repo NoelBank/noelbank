@@ -1,10 +1,10 @@
-### Application Developer for [Neoskop][https://neoskop.de]
+### Application Developer for [Neoskop](https://neoskop.de)
 #### Self-taught programmer from hanover.
 
-🏡 [website][https://nbank.dev] **|** 
-🎥 [twitch][https://www.twitch.tv/noelbank] **|** 
-👔 [linkedin][https://www.linkedin.com/in/noel-bank-419641178/] **|**
-👔 [xing][https://www.xing.com/profile/Noel_Bank]
+🏡 [website](https://nbank.dev) **|** 
+🎥 [twitch](https://www.twitch.tv/noelbank) **|** 
+👔 [linkedin](https://www.linkedin.com/in/noel-bank-419641178/) **|**
+👔 [xing](https://www.xing.com/profile/Noel_Bank)
 
 #### Milestones
 **2018**
