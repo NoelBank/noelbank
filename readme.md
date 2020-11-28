@@ -17,4 +17,4 @@
 
 **2020**
 - development with React
-- t.b.a
+- live stream project - develop smartphone in browser
