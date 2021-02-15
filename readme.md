@@ -18,3 +18,10 @@
 **2020**
 - development with React
 - live stream project - develop smartphone in browser
+
+### Stats
+
+<a href="https://github.com/noelbank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=noelbank&show_icons=true&theme=onedark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelbank&show_icons=true&theme=onedark&count_private=true&layout=compact" />
+</a>
