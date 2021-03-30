@@ -1,6 +1,6 @@
 <a href="https://twitter.com/nbankhnvr" target="_blank" rel="nofollow"><img align="right" alt="Noels's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/noel-bank" target="_blank" rel="nofollow"><img align="right" alt="Noel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/noel.bank" target="_blank" rel="nofollow"><img align="right" alt="Noel's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860)
+## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246)
 
 Application Developer based in hanover. With experience with React, Typescript and PHP
 
