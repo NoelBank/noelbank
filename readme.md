@@ -24,6 +24,7 @@ Application Developer based in hanover. With experience with React, Typescript a
 <br>
 <ul>
  <li><b>Boarding pass generator for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a></b>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a> ·  <a href="http://slb2k11.nbank.dev/?ref=nbank-github">Website</a></li>
+  <li><b>Admin / User Dashboard <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project</b>: <a href="http://dashboard.truelife-rp.de/?ref=nbank-github">Website</a></li>
  </ul>
 </p>
 
