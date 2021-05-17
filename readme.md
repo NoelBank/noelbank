@@ -1,6 +1,6 @@
 ## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246)
 
-Application Developer based in hanover. With experience with React, Typescript and PHP
+Application Developer based in hanover. With experience with React, Typescript, Vue and PHP
 
 - 👨🏽‍💻 Currently working, on new technologies. 
 - 🌐 Visit my [porfolio website](https://nbank.dev/) for complete background and contact.
