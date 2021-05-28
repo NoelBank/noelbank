@@ -15,7 +15,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <br>
 <p align = "center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=noelbank&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelbank&show_icons=true&theme=onedark&count_private=true&layout=compact&hide=java,html" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelbank&show_icons=true&theme=onedark&count_private=true&layout=compact&hide=java,html,handlebars" />
 </p>
 </details>
 
