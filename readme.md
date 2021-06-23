@@ -2,44 +2,78 @@
 
 Application Developer based in hanover. With experience with React, Typescript, Vue and PHP
 
-- 👨🏽‍💻 Currently working, on new technologies. 
-- 🌐 Visit my [porfolio website](https://nbank.dev/) for complete background and contact.
-- 👋 My personal [blog site](https://nbank.dev/blog/)
+📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:info@nbank.dev">info@nbank.dev</a>
 
----
 
 ## 📊 Some stats
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
+ <summary> 📈 <b>My Github Stats</b>: </summary>
+<br />
+<p align = "left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=noelbank&theme=react&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelbank&show_icons=true&theme=react&count_private=true&layout=compact&hide=java,html,handlebars" />
 </p>
 </details>
-
-<details>
+<br />
+<details open>
  <summary> 📕 <b>My projects</b>: </summary>
-<br>
+<br />
 <ul>
- <li><b>Boarding pass generator for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a></b>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a> ·  <a href="http://slb2k11.nbank.dev/?ref=nbank-github">Website</a></li>
-  <li><b>Admin / User Dashboard <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project</b>: <a href="http://dashboard.truelife-rp.de/?ref=nbank-github">Website</a></li>
+ <li><b>Boarding pass generator</b> for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a> ·  <a href="http://slb2k11.nbank.dev/?ref=nbank-github">Website</a></li>
+  <li><b>Admin / User Dashboard</b> <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project<: <a href="http://dashboard.truelife-rp.de/?ref=nbank-github">Website</a></li>
  </ul>
-</p>
+
+</details>
+<br />
+
+<details open>
+ <summary> 🛠️  <b>Languages and Tools</b>: </summary>
+<br />
+<a href="#" target="_blank"><img align="left" alt="React" width="36px" src="https://cdn.nbank.dev/images/react.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Typescript" width="36px" src="https://cdn.nbank.dev/images/typescript.svg" /></a>
+<a href="#" target="_blank"><img align="left" alt="Vue" width="36px" src="https://cdn.nbank.dev/images/vue.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Sass" width="36px" src="https://cdn.nbank.dev/images/sass.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Node.JS" width="36px" src="https://cdn.nbank.dev/images/node.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="GatsbyJS" width="36px" src="https://cdn.nbank.dev/images/gatsby.svg" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/git.png"/></a>
+</details>
+<br />
+<br />
+<br />
+
+
+<details open>
+ <summary> 🖥️  <b>Softwares</b>: </summary>
+<br>
+<a href="#" target="_blank"><img align="left" alt="VSCode" width="36px" src="https://cdn.nbank.dev/images/vscode.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Teamspeak" width="36px" src="https://cdn.nbank.dev/images/teamspeak.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Discord" width="36px" src="https://cdn.nbank.dev/images/discord.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Slack" width="36px" src="https://cdn.nbank.dev/images/slack.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Spotify" width="36px" src="https://cdn.nbank.dev/images/spotify.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="Netlify" width="36px" src="https://cdn.nbank.dev/images/netlify.png" /></a>
+<a href="https://github.com/dev-mb/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
+</details>
+
+<br />
+<br />
+<br />
+
+<details open>
+ <summary> 💡 <b>Running Projects</b>: </summary>
+<br>
+<a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.nbank.dev/images/altv.svg"/></a>
+<a href="https://truelife-rp.de" target="_blank"> <img align="left" alt="True Life" width="36px" src="https://cdn.nbank.dev/images/truelife.png"/></a>
 
 </details>
 
-
----
-
+<br />
+<br />
+<br />
 
 ## 🎥 Check my Twitch Channel 
 
-[Some times coding Streams](https://twitch.nbank.dev)
+[Some coding Streams](https://twitch.nbank.dev)
 
----
-
-<p align = "center">
- <b>Show some love by starring and supporting my projects!</b>
-</p>
+<br />
+© <a href="https://nbank.dev"><b>nbank.dev</b></a>
