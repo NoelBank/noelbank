@@ -8,7 +8,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 ## 📊 Some stats
 
 <details open>
- <summary> 📈 <b>My Github Stats</b>: </summary>
+ <summary> 📈  <b>My Github Stats</b>: </summary>
 <br />
 <p align = "left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=noelbank&theme=react&count_private=true&include_all_commits=true" />
@@ -17,7 +17,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 </details>
 <br />
 <details open>
- <summary> 📕 <b>My projects</b>: </summary>
+ <summary> 📕  <b>My projects</b>: </summary>
 <br />
 <ul>
  <li><b>Boarding pass generator</b> for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a> ·  <a href="http://slb2k11.nbank.dev/?ref=nbank-github">Website</a></li>
@@ -29,7 +29,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <br />
 
 <details open>
- <summary> 🛠️  <b>Languages and Tools</b>: </summary>
+ <summary> 🛠️   <b>Languages and Tools</b>: </summary>
 <br />
 <a href="#" target="_blank"><img align="left" alt="React" width="36px" src="https://cdn.nbank.dev/images/react.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Typescript" width="36px" src="https://cdn.nbank.dev/images/typescript.svg" /></a>
@@ -44,7 +44,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 
 
 <details open>
- <summary> 🖥️  <b>Softwares</b>: </summary>
+ <summary> 🖥️   <b>Softwares</b>: </summary>
 <br>
 <a href="#" target="_blank"><img align="left" alt="VSCode" width="36px" src="https://cdn.nbank.dev/images/vscode.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Teamspeak" width="36px" src="https://cdn.nbank.dev/images/teamspeak.png" /></a>
@@ -59,7 +59,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <br />
 
 <details open>
- <summary> 💡 <b>Running Projects</b>: </summary>
+ <summary> 💡  <b>Running Projects</b>: </summary>
 <br>
 <a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.nbank.dev/images/altv.svg"/></a>
 <a href="https://truelife-rp.de" target="_blank"> <img align="left" alt="True Life" width="36px" src="https://cdn.nbank.dev/images/truelife.png"/></a>
