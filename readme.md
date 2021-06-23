@@ -26,6 +26,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 
 </details>
 <br />
+<br />
 
 <details open>
  <summary> 🛠️  <b>Languages and Tools</b>: </summary>
@@ -38,7 +39,6 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="#" target="_blank"><img align="left" alt="GatsbyJS" width="36px" src="https://cdn.nbank.dev/images/gatsby.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/git.png"/></a>
 </details>
-<br />
 <br />
 <br />
 
@@ -57,7 +57,6 @@ Application Developer based in hanover. With experience with React, Typescript, 
 
 <br />
 <br />
-<br />
 
 <details open>
  <summary> 💡 <b>Running Projects</b>: </summary>
@@ -67,7 +66,6 @@ Application Developer based in hanover. With experience with React, Typescript, 
 
 </details>
 
-<br />
 <br />
 <br />
 
