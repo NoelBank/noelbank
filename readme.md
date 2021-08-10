@@ -38,7 +38,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="#" target="_blank"><img align="left" alt="Sass" width="36px" src="https://cdn.nbank.dev/images/sass.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Node.JS" width="36px" src="https://cdn.nbank.dev/images/node.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="GatsbyJS" width="36px" src="https://cdn.nbank.dev/images/gatsby.svg" /></a>
-<a href="#" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/git.png"/></a>
+<a href="#" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
 </details>
 <br />
 <br />
