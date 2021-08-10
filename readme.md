@@ -38,7 +38,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="#" target="_blank"><img align="left" alt="Sass" width="36px" src="https://cdn.nbank.dev/images/sass.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Node.JS" width="36px" src="https://cdn.nbank.dev/images/node.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="GatsbyJS" width="36px" src="https://cdn.nbank.dev/images/gatsby.svg" /></a>
-<a href="#" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
+<a href="#" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/git.png"/></a>
 </details>
 <br />
 <br />
@@ -53,7 +53,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="#" target="_blank"><img align="left" alt="Slack" width="36px" src="https://cdn.nbank.dev/images/slack.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Spotify" width="36px" src="https://cdn.nbank.dev/images/spotify.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Netlify" width="36px" src="https://cdn.nbank.dev/images/netlify.png" /></a>
-<a href="https://github.com/noelbank/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.dev/images/git.png"/></a>
+<a href="https://github.com/noelbank/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
 </details>
 
 <br />
