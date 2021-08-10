@@ -65,7 +65,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.nbank.dev/images/altv.svg"/></a>
 <a href="https://truelife-rp.de" target="_blank"> <img align="left" alt="True Life" width="36px" src="https://cdn.nbank.dev/images/truelife.png"/></a>
 <a href="https://unleashed-life.de" target="_blank"> <img align="left" alt="Unleashed Life" width="36px" src="https://cdn.nbank.dev/images/ul.png"/></a>
-<a href="https://upgent.cloud" target="_blank"> <img align="left" alt="Upgent" height="36px" src="https://cdn.nbank.dev/images/up.png"/></a>
+<a href="https://nbank.dev" target="_blank"> <img align="left" alt="nbank.dev" height="36px" src="https://cdn.nbank.one/nb_adtYPXZxnPyI.png"/></a>
 </details>
 
 <br />
