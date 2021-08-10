@@ -53,7 +53,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="#" target="_blank"><img align="left" alt="Slack" width="36px" src="https://cdn.nbank.dev/images/slack.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Spotify" width="36px" src="https://cdn.nbank.dev/images/spotify.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Netlify" width="36px" src="https://cdn.nbank.dev/images/netlify.png" /></a>
-<a href="https://github.com/noelbank/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
+<a href="https://github.com/noelbank/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.one/nb_UQ1lt57eIcuI.png"/></a>
 </details>
 
 <br />
