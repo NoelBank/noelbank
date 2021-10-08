@@ -1,3 +1,9 @@
+<style>
+ #profile-image {
+ border-radius: 100%;
+ }
+ </sytle>
+
 ## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246) ![](https://img.shields.io/twitch/status/noelbank?color=%23533264)  
 
 Application Developer based in hanover. With experience with React, Typescript, Vue and PHP
@@ -75,16 +81,19 @@ Application Developer based in hanover. With experience with React, Typescript, 
 
 [Some coding Streams](https://twitch.nbank.dev)
 
+<br />
+<br />
+
 ## 👾 Friends
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/dev-mb"><img src="https://avatars.githubusercontent.com/u/50833616" width="100px;" style="border-radius: 100%;" alt="Dev-MB | SimulatorMB"/><br/>
+      <a href="https://github.com/dev-mb"><img src="https://avatars.githubusercontent.com/u/50833616" width="100px;" id="profile-image" alt="Dev-MB | SimulatorMB"/><br/>
         <sub><b><a href="https://github.com/dev-mb">SimulatorMB</b></a></sub><br /><a href="https://dev-mb.dev">dev-mb.dev</a></br><small>Developer</small>
     </td>
     <td align="center">
-      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" style="border-radius: 100%;" alt="NoelBank"/><br/>
+      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" id="profile-image" alt="NoelBank"/><br/>
         <sub><b><a href="https://github.com/NoelBank">Runa</b></a></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
   </tr>
