@@ -1,9 +1,3 @@
-<style>
- #profile-image {
- border-radius: 100%;
- }
- </sytle>
-
 ## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246) ![](https://img.shields.io/twitch/status/noelbank?color=%23533264)  
 
 Application Developer based in hanover. With experience with React, Typescript, Vue and PHP
