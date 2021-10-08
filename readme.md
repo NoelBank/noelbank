@@ -80,11 +80,11 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/dev-mb"><img src="https://avatars.githubusercontent.com/u/50833616" width="100px;" alt="Dev-MB | SimulatorMB"/><br/>
+      <a href="https://github.com/dev-mb"><img src="https://avatars.githubusercontent.com/u/50833616" width="100px;" style="border-radius: 100%;" alt="Dev-MB | SimulatorMB"/><br/>
         <sub><b><a href="https://github.com/dev-mb">SimulatorMB</b></a></sub><br /><a href="https://dev-mb.dev">dev-mb.dev</a></br><small>Developer</small>
     </td>
     <td align="center">
-      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" alt="NoelBank"/><br/>
+      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" style="border-radius: 100%;" alt="NoelBank"/><br/>
         <sub><b><a href="https://github.com/NoelBank">Runa</b></a></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
   </tr>
