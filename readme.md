@@ -1,4 +1,4 @@
-## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246) ![](https://img.shields.io/twitch/status/noelbank?color=%23533264)  
+## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246)
 
 Application Developer based in hanover. With experience with React, Typescript, Vue and PHP
 
@@ -67,13 +67,6 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <a href="https://unleashed-life.de" target="_blank"> <img align="left" alt="Unleashed Life" width="36px" src="https://cdn.nbank.dev/images/ul.png"/></a>
 <a href="https://nbank.dev" target="_blank"> <img align="left" alt="nbank.dev" height="36px" src="https://cdn.nbank.one/nb_adtYPXZxnPyI.png"/></a>
 </details>
-
-<br />
-<br />
-
-## 🎥 Check my Twitch Channel 
-
-[Some coding Streams](https://twitch.nbank.dev)
 
 <br />
 <br />
