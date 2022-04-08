@@ -20,9 +20,9 @@ Application Developer based in hanover. With experience with React, Typescript, 
  <summary> 📕  <b>My projects</b>: </summary>
 <br />
 <ul>
- <li><b>Boarding pass generator</b> for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a> ·  <a href="http://slb2k11.nbank.dev/?ref=nbank-github">Website</a></li>
-  <li><b>Admin / User Dashboard</b> <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project: <a href="http://dashboard.truelife-rp.de/?ref=nbank-github">Website</a></li>
-   <li><b>Roleplay Phone for</b> <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project: <a href="http://truelife-rp.de/?ref=nbank-github">Website</a></li>
+ <li><b>Boarding pass generator</b> for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a></li>
+  <li><b>Admin / User Dashboard</b> <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project currently offline: <a href="http://dashboard.truelife-rp.de/?ref=nbank-github">Website</a></li>
+
  </ul>
 
 </details>
@@ -34,7 +34,6 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <br />
 <a href="#" target="_blank"><img align="left" alt="React" width="36px" src="https://cdn.nbank.dev/images/react.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Typescript" width="36px" src="https://cdn.nbank.dev/images/typescript.svg" /></a>
-<a href="#" target="_blank"><img align="left" alt="Vue" width="36px" src="https://cdn.nbank.dev/images/vue.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Sass" width="36px" src="https://cdn.nbank.dev/images/sass.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="Node.JS" width="36px" src="https://cdn.nbank.dev/images/node.png" /></a>
 <a href="#" target="_blank"><img align="left" alt="GatsbyJS" width="36px" src="https://cdn.nbank.dev/images/gatsby.svg" /></a>
@@ -62,9 +61,7 @@ Application Developer based in hanover. With experience with React, Typescript, 
 <details open>
  <summary> 💡  <b>Running Projects</b>: </summary>
 <br>
-<a href="https://altv.mp/#/" target="_blank"> <img align="left" alt="alt:V" width="36px" src="https://cdn.nbank.dev/images/altv.svg"/></a>
 <a href="https://truelife-rp.de" target="_blank"> <img align="left" alt="True Life" width="36px" src="https://cdn.nbank.dev/images/truelife.png"/></a>
-<a href="https://unleashed-life.de" target="_blank"> <img align="left" alt="Unleashed Life" width="36px" src="https://cdn.nbank.dev/images/ul.png"/></a>
 <a href="https://nbank.dev" target="_blank"> <img align="left" alt="nbank.dev" height="36px" src="https://cdn.nbank.one/nb_adtYPXZxnPyI.png"/></a>
 </details>
 
@@ -78,10 +75,6 @@ Application Developer based in hanover. With experience with React, Typescript, 
     <td align="center">
       <a href="https://github.com/dev-mb"><img src="https://avatars.githubusercontent.com/u/50833616" width="100px;" id="profile-image" alt="Dev-MB | SimulatorMB"/><br/>
         <sub><b><a href="https://github.com/dev-mb">SimulatorMB</b></a></sub><br /><a href="https://dev-mb.dev">dev-mb.dev</a></br><small>Developer</small>
-    </td>
-    <td align="center">
-      <a href="https://github.com/csruna"><img src="https://avatars.githubusercontent.com/u/58478174?v=4" width="100px;" id="profile-image" alt="NoelBank"/><br/>
-        <sub><b><a href="https://github.com/NoelBank">Runa</b></a></sub><br /><a href="https://csruna.de">CSRuna.de</a></br><small>Developerin</small>
     </td>
   </tr>
 </table>
