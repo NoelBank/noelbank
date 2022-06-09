@@ -5,7 +5,7 @@ Application Developer based in hanover. With experience with React, Typescript a
 📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:info@nbank.dev">info@nbank.dev</a>
 
 
-## 📊 Some stats
+## 📊 Some Facts &amp; Stats
 
 <details open>
  <summary> 📈  <b>My Github Stats</b>: </summary>
@@ -16,14 +16,61 @@ Application Developer based in hanover. With experience with React, Typescript a
 </p>
 </details>
 <br />
-<details open>
- <summary> 📕  <b>My projects</b>: </summary>
+<details>
+ <summary> ✉️  <b>HowToWorkWithMe 🇩🇪</b>: </summary>
 <br />
-<ul>
- <li><b>Boarding pass generator</b> for the <a href="https://unity-life.de/">Unity Life</a> Gta V Roleplay project for the streamer <a href="https://www.twitch.tv/slb2k11">slb2k11</a>: <a href="https://github.com/NoelBank/slb2k11-boardingpass">Repository</a></li>
-  <li><b>Admin / User Dashboard</b> <a href="https://truelife-rp.de/">True Life</a> Gta V Roleplay project currently offline: <a href="http://dashboard.truelife-rp.de/?ref=nbank-github">Website</a></li>
 
- </ul>
+<ul>
+<li><b>Intro</b> –– <i>Bei Neoskop bin ich seit August 2018. Dort habe ich meine Asubilung angefangen und Arbeite nun als Application Developer. Im Team habe ich einiges an Verantwortung ganz egal ob es Deployments sind, neue dinge Entwickelt werden müssen, das On-Boarding neuer Kollegen oder planen von Events.
+<br />
+Dazu passend mein lieblings Zitat:</i>
+<br />
+<br />
+
+> <i>Die Jungs von der Straße sind mir heilig.</i> <br />
+> <b>&nbsp;&nbsp;Harald Krull <br />
+> &nbsp;&nbsp;Kaptäin zur See </b>
+</li>
+
+<br />
+
+<li><b>So definiere ich Erfolg</b> –– <i>
+Für mich bedeutet es "gut im Job" zu sein wenn ich meine Arbeit in der geschätzten Zeit, nach bestem gewissen und möglichkeiten abgeben zukönnen. In dem ich mein gesammeltes Wissen und meine bisherigen "fehler" zur hilfe nehme.</i>
+</li>
+
+<br />
+
+<li>
+<b>So kommuniziere ich</b> –– <i>
+Ich denke meine Kollegen &amp;' Freunde würden mich in meiner Art zu Kommunizieren sehr offen und direkt einschätzen. Man sollte meine direkte Art nicht immer sofort persönlich nehmen, da ich gerne mal dinge nicht so meine wie ich diese ausspreche. Für mich ist es schwer Kritik und probleme ohne das ein oder andere 🍻 (genussmittel) anzusprechen. Ich höre meinem Team gerne und so oft wie möglich zu.
+Für mich ist eine direkte <b>face-to-face</b> Kommunikation am liebsten, den Mimik und Gestik des gegnübers Wahrnehmen zukönnen löst so manch ein missverständnis. Außerhalb meiner Arbeitszeiten kann man mich eigentlich immer erreichen, ob ich Antworte ist was anderes 😝. Sollte es jedoch Dringend sein oder jemand weiß nicht weiter helfe ich natürlich gerne.</i></li>
+
+<br />
+
+<li>
+<b>Diese Dinge an mir könnten dich nerven</b> –– <i>
+Da gibt es ein paar dinge, ob meine direkte /- offene Art, meinen nicht so ganz deutlichen Witzen. Meine Art an ein Problem heranzugehen ist nicht die üblichste aber trotzdem ist sie praktikabel 🙂</i>
+</li>
+
+<br />
+
+<li>
+<b>So verlierst oder gewinnst du mein Vertrauen</b> ––<i>
+Um mein Vertrauen zu verdienen solltest <b>du</b> einfach <b>du</b> sein! Bitte verstell dich nicht sondern sei du selbst. Mein trigger punkt ist es wenn man sich nicht verantworlich fühlt und dinge einfach liegen lässt. Ich erwarte von anderen das man verantwortung übernimmt und versucht dinge die man nicht versteht kritisch zu hinterfragen. </i></li>
+<br />
+
+<li>
+<b>Das sind meine Stärken</b> –– <i>
+Meine Leidenschaft liegt ganz klar darin schöne, nützliche und brauchbare Anwendungen zu entwickeln. Mit meiner offenen Art helfe ich gerne dort wo ich kann ob es beim <u>Feierabend Säuferchen 🍻🍹</u> ist, bei Planen und umsetzen von Team Event's oder einfach ein Offenes Ohr mit guten vorschlägen damit unterstütze ich das Wir und somit mein Team. </i>
+</li>
+<br />
+
+<li>
+<b>Hier habe ich noch Luft nach oben</b> –– 
+<i>
+Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit meinen Kollegen Teilen. Außerdem möchte ich mich in meiner Freizeit mehr mit neuen Technologien berschäftigen um meinen wissenshorizont erweitern zu können. Dabei kann mich auch unterstützen in dem man mir Tipp's und Trick's gibt. 
+</i></li>
+</ul>
 
 </details>
 <br />
@@ -55,29 +102,8 @@ Application Developer based in hanover. With experience with React, Typescript a
 <a href="https://github.com/noelbank/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
 </details>
 
-<br />
-<br />
 
-<details open>
- <summary> 💡  <b>Running Projects</b>: </summary>
-<br>
-<a href="https://truelife-rp.de" target="_blank"> <img align="left" alt="True Life" width="36px" src="https://cdn.nbank.dev/images/truelife.png"/></a>
-<a href="https://nbank.dev" target="_blank"> <img align="left" alt="nbank.dev" height="36px" src="https://cdn.nbank.one/nb_adtYPXZxnPyI.png"/></a>
-</details>
 
 <br />
-<br />
-
-## 👾 Friends
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dev-mb"><img src="https://avatars.githubusercontent.com/u/50833616" width="100px;" id="profile-image" alt="Dev-MB | SimulatorMB"/><br/>
-        <sub><b><a href="https://github.com/dev-mb">SimulatorMB</b></a></sub><br /><a href="https://dev-mb.dev">dev-mb.dev</a></br><small>Developer</small>
-    </td>
-  </tr>
-</table>
-
 <br />
 © <a href="https://nbank.dev"><b>nbank.dev</b></a>
