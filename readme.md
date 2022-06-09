@@ -76,7 +76,7 @@ Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit 
 <br />
 <br />
 
-<details open>
+<details>
  <summary> 🛠️   <b>Languages and Tools</b>: </summary>
 <br />
 <a href="#" target="_blank"><img align="left" alt="React" width="36px" src="https://cdn.nbank.dev/images/react.png" /></a>
@@ -90,7 +90,7 @@ Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit 
 <br />
 
 
-<details open>
+<details>
  <summary> 🖥️   <b>Softwares</b>: </summary>
 <br>
 <a href="#" target="_blank"><img align="left" alt="VSCode" width="36px" src="https://cdn.nbank.dev/images/vscode.png" /></a>
