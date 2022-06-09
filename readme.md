@@ -1,22 +1,16 @@
 ## Hi 👋 I am Noel! ![](https://komarev.com/ghpvc/?username=noelbank&color=4d2860) ![](https://hit.yhype.me/github/profile?user_id=24194246)
 
-Application Developer based in hanover. With experience with React, Typescript and Node.JS
+Application Developer [@neoskop](https://neoskop.de) based in hanover. With experience with React, Typescript and Node.JS
 
 📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:info@nbank.dev">info@nbank.dev</a>
 
 
-## 📊 Some Facts &amp; Stats
-
-<details open>
- <summary> 📈  <b>My Github Stats</b>: </summary>
-<br />
 <p align = "left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=noelbank&theme=react&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelbank&show_icons=true&theme=react&count_private=true&layout=compact&hide=java,html,handlebars" />
 </p>
-</details>
-<br />
-<details>
+
+<details open>
  <summary> ✉️  <b>HowToWorkWithMe 🇩🇪</b>: </summary>
 <br />
 
@@ -74,36 +68,5 @@ Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit 
 
 </details>
 <br />
-<br />
 
-<details>
- <summary> 🛠️   <b>Languages and Tools</b>: </summary>
-<br />
-<a href="#" target="_blank"><img align="left" alt="React" width="36px" src="https://cdn.nbank.dev/images/react.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Typescript" width="36px" src="https://cdn.nbank.dev/images/typescript.svg" /></a>
-<a href="#" target="_blank"><img align="left" alt="Sass" width="36px" src="https://cdn.nbank.dev/images/sass.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Node.JS" width="36px" src="https://cdn.nbank.dev/images/node.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="GatsbyJS" width="36px" src="https://cdn.nbank.dev/images/gatsby.svg" /></a>
-<a href="#" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.nbank.dev/images/git.png"/></a>
-</details>
-<br />
-<br />
-
-
-<details>
- <summary> 🖥️   <b>Softwares</b>: </summary>
-<br>
-<a href="#" target="_blank"><img align="left" alt="VSCode" width="36px" src="https://cdn.nbank.dev/images/vscode.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Teamspeak" width="36px" src="https://cdn.nbank.dev/images/teamspeak.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Discord" width="36px" src="https://cdn.nbank.dev/images/discord.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Slack" width="36px" src="https://cdn.nbank.dev/images/slack.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Spotify" width="36px" src="https://cdn.nbank.dev/images/spotify.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="Netlify" width="36px" src="https://cdn.nbank.dev/images/netlify.png" /></a>
-<a href="https://github.com/noelbank/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.nbank.dev/images/github.png"/></a>
-</details>
-
-
-
-<br />
-<br />
-© <a href="https://nbank.dev"><b>nbank.dev</b></a>
+&nbsp; » [nbank.dev](https://nbank.dev)
