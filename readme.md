@@ -15,7 +15,7 @@ Application Developer [@neoskop](https://neoskop.de) based in hanover. With expe
 <br />
 
 <ul>
-<li><b>Intro</b> –– <i>Bei Neoskop bin ich seit August 2018. Dort habe ich meine Asubilung angefangen und Arbeite nun als Application Developer. Im Team habe ich einiges an Verantwortung ganz egal ob es Deployments sind, neue dinge Entwickelt werden müssen, das On-Boarding neuer Kollegen oder planen von Events.
+<li><b>Intro</b> –– <i>Bei Neoskop bin ich seit August 2018 als Azubi und seit August 2021 arbeite ich nun als Application Developer. Im Team habe ich einiges an Verantwortung ganz egal ob es Deployments sind, neue dinge Entwickelt werden müssen, das On-Boarding neuer Kollegen oder planen von Events.
 <br />
 Dazu passend mein lieblings Zitat:</i>
 <br />
@@ -29,7 +29,7 @@ Dazu passend mein lieblings Zitat:</i>
 <br />
 
 <li><b>So definiere ich Erfolg</b> –– <i>
-Für mich bedeutet es "gut im Job" zu sein wenn ich meine Arbeit in der geschätzten Zeit, nach bestem gewissen und möglichkeiten abgeben zukönnen. In dem ich mein gesammeltes Wissen und meine bisherigen "fehler" zur hilfe nehme.</i>
+Für mich bedeutet es "gut im Job" zu sein wenn ich meine Arbeit in der geschätzten Zeit, nach bestem gewissen und nach besten möglichkeiten fertigstellen kann. In dem ich mein gesammeltes Wissen und meine bisherigen "fehler" zur hilfe nehme.</i>
 </li>
 
 <br />
@@ -37,13 +37,13 @@ Für mich bedeutet es "gut im Job" zu sein wenn ich meine Arbeit in der geschät
 <li>
 <b>So kommuniziere ich</b> –– <i>
 Ich denke meine Kollegen &amp;' Freunde würden mich in meiner Art zu Kommunizieren sehr offen und direkt einschätzen. Man sollte meine direkte Art nicht immer sofort persönlich nehmen, da ich gerne mal dinge nicht so meine wie ich diese ausspreche. Für mich ist es schwer Kritik und probleme ohne das ein oder andere 🍻 (genussmittel) anzusprechen. Ich höre meinem Team gerne und so oft wie möglich zu.
-Für mich ist eine direkte <b>face-to-face</b> Kommunikation am liebsten, den Mimik und Gestik des gegnübers Wahrnehmen zukönnen löst so manch ein missverständnis. Außerhalb meiner Arbeitszeiten kann man mich eigentlich immer erreichen, ob ich Antworte ist was anderes 😝. Sollte es jedoch Dringend sein oder jemand weiß nicht weiter helfe ich natürlich gerne.</i></li>
+Für mich ist eine direkte <b>face-to-face</b> Kommunikation am liebsten, den Mimik und Gestik des gegnübers Wahrnehmen zukönnen, löst so manch ein missverständnis. Außerhalb meiner Arbeitszeiten kann man mich eigentlich immer erreichen, ob ich Antworte ist was anderes 😝. Sollte es jedoch Dringend sein oder jemand weiß nicht weiter helfe ich natürlich gerne.</i></li>
 
 <br />
 
 <li>
 <b>Diese Dinge an mir könnten dich nerven</b> –– <i>
-Da gibt es ein paar dinge, ob meine direkte /- offene Art, meinen nicht so ganz deutlichen Witzen. Meine Art an ein Problem heranzugehen ist nicht die üblichste aber trotzdem ist sie praktikabel 🙂</i>
+Da gibt es ein paar dinge, ob es meine direkte /- offene Art, meinen nicht so ganz deutlichen Witzen oder meine nicht ganz so übliche aber praktikabele herangehensweise ein Problem zu lösen. 🙂</i>
 </li>
 
 <br />
@@ -55,14 +55,14 @@ Um mein Vertrauen zu verdienen solltest <b>du</b> einfach <b>du</b> sein! Bitte 
 
 <li>
 <b>Das sind meine Stärken</b> –– <i>
-Meine Leidenschaft liegt ganz klar darin schöne, nützliche und brauchbare Anwendungen zu entwickeln. Mit meiner offenen Art helfe ich gerne dort wo ich kann ob es beim <u>Feierabend Säuferchen 🍻🍹</u> ist, bei Planen und umsetzen von Team Event's oder einfach ein Offenes Ohr mit guten vorschlägen damit unterstütze ich das Wir und somit mein Team. </i>
+Meine Leidenschaft liegt ganz klar darin schöne, nützliche und brauchbare Anwendungen zu entwickeln. Mit meiner offenen Art helfe ich gerne dort wo ich kann, beim <u>Feierabend Säuferchen 🍻🍹</u>, beim Planen und umsetzen von Team Event's oder einfach ein Offenes Ohr zu haben mit guten vorschlägen. Damit stärke ich das <b>WIR</b> im Team. </i>
 </li>
 <br />
 
 <li>
 <b>Hier habe ich noch Luft nach oben</b> –– 
 <i>
-Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit meinen Kollegen Teilen. Außerdem möchte ich mich in meiner Freizeit mehr mit neuen Technologien berschäftigen um meinen wissenshorizont erweitern zu können. Dabei kann mich auch unterstützen in dem man mir Tipp's und Trick's gibt. 
+Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit meinen Kollegen Teilen. Außerdem möchte ich mich in meiner Freizeit mehr mit neuen Technologien berschäftigen um meinen wissenshorizont erweitern zu können. Dabei könnt ihr mich auch unterstützen in dem, ihr mir Tipp's und Trick's zum lernen oder Themen gebt. 
 </i></li>
 </ul>
 
