@@ -8,7 +8,7 @@ Application Developer [@neoskop](https://neoskop.de) based in hanover. With expe
 <p align = "left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=noelbank&theme=onedark&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelbank&show_icons=true&theme=onedark&count_private=true&layout=compact&hide=java,html,handlebars" />
-  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=noelbank&theme=onedark" />
+  
 
 </p>
 
