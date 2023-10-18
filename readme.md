@@ -64,7 +64,7 @@ Meine Leidenschaft liegt ganz klar darin schöne, nützliche und brauchbare Anwe
 <li>
 <b>Hier habe ich noch Luft nach oben</b> –– 
 <i>
-Ich könnte noch mehr verantwortung übernhemen und mein wissen noch besser mit meinen Kollegen Teilen. Außerdem möchte ich mich in meiner Freizeit mehr mit neuen Technologien berschäftigen um meinen wissenshorizont erweitern zu können. Dabei könnt ihr mich auch unterstützen in dem, ihr mir Tipp's und Trick's zum lernen oder Themen gebt. 
+Ich könnte noch mehr verantwortung übernehmen und mein wissen noch besser mit meinen Kollegen Teilen. Außerdem möchte ich mich in meiner Freizeit mehr mit neuen Technologien berschäftigen um meinen wissenshorizont erweitern zu können. Dabei könnt ihr mich auch unterstützen in dem, ihr mir Tipp's und Trick's zum lernen oder Themen gebt. 
 </i></li>
 </ul>
 
