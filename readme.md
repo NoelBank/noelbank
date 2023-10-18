@@ -12,7 +12,7 @@ Application Developer [@neoskop](https://neoskop.de) based in hanover. With expe
 
 </p>
 
-<details open>
+<details>
  <summary> ✉️  <b>HowToWorkWithMe 🇩🇪</b>: </summary>
 <br />
 
