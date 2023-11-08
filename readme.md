@@ -2,7 +2,7 @@
 
 Application Developer [@neoskop](https://neoskop.de) based in hanover. With experience with React, Typescript and Node.JS
 
-📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? dan Schreib mir: 	<a href="mailto:info@nbank.dev">info@nbank.dev</a>
+📧&nbsp;&nbsp; Du hast eine Idee? Denkst ich kann das? Schreib mir: 	<a href="mailto:info@nbank.dev">info@nbank.dev</a>
 
 
 <p align = "left">
